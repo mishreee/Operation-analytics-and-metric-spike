@@ -14,11 +14,19 @@ able to comprehend questions or help other teams grasp them.
 
 We will analyse and extract the following information from the data provided.
 • Number of jobs reviewed
+
 • Throughput
+
 • Percentage share of each language
+
 • Duplicate rows
+
 • User Engagement
+
 • User Growth
+
 • Weekly Retention
+
 • Weekly Engagement
+
 • Email Engagement
